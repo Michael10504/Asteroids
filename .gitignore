@@ -8,5 +8,5 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#Logs 
-game_state.jsonl
+#Logs
+game_events.jsonl
